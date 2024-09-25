@@ -1,0 +1,18 @@
+
+# USEMODULE := $(filter-out core_msg,$(USEMODULE))
+
+# If you want to use tsrb, set this to 1
+USETSRB := 0
+ifeq ($(USETSRB),1)
+	TSRB := tsrb
+	CFLAGS += -DTSRB
+endif
+
+ifneq (,$(filter csp,$(USEMODULE)))
+	USEMODULE += $(TSRB)
+endif
+
+ifneq (,$(filter micropython,$(USEPKG)))
+	MICROPY_PY_SUBSYSTEM := 1
+endif
+

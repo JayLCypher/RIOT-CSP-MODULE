@@ -1,0 +1,252 @@
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 4.523108 s
+    Avg: 0.452310 s
+Thread2:
+    Sum: 4.495832 s
+    Avg: 0.449583 s
+CSP:
+    Sum: 6.756792 s
+    Avg: 0.675679 s
+Program:
+    Execution: 15.775786 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+
+native: exiting
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 4.382086 s
+    Avg: 0.438208 s
+Thread2:
+    Sum: 4.598054 s
+    Avg: 0.459805 s
+CSP:
+    Sum: 6.918280 s
+    Avg: 0.691828 s
+Program:
+    Execution: 15.898488 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 4.736751 s
+    Avg: 0.473675 s
+Thread2:
+    Sum: 4.623630 s
+    Avg: 0.462363 s
+CSP:
+    Sum: 7.354185 s
+    Avg: 0.735418 s
+Program:
+    Execution: 16.714629 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 4.438116 s
+    Avg: 0.443811 s
+Thread2:
+    Sum: 4.403699 s
+    Avg: 0.440369 s
+CSP:
+    Sum: 6.649691 s
+    Avg: 0.664969 s
+Program:
+    Execution: 15.491563 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+
+native: exiting
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 4.579950 s
+    Avg: 0.457995 s
+Thread2:
+    Sum: 4.508291 s
+    Avg: 0.450829 s
+CSP:
+    Sum: 6.852133 s
+    Avg: 0.685213 s
+Program:
+    Execution: 15.940424 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 4.999781 s
+    Avg: 0.499978 s
+Thread2:
+    Sum: 5.005064 s
+    Avg: 0.500506 s
+CSP:
+    Sum: 7.572221 s
+    Avg: 0.757222 s
+Program:
+    Execution: 17.577158 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 5.672924 s
+    Avg: 0.567292 s
+Thread2:
+    Sum: 5.838202 s
+    Avg: 0.583820 s
+CSP:
+    Sum: 8.436221 s
+    Avg: 0.843622 s
+Program:
+    Execution: 19.947430 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 5.324007 s
+    Avg: 0.532400 s
+Thread2:
+    Sum: 5.541100 s
+    Avg: 0.554110 s
+CSP:
+    Sum: 7.989769 s
+    Avg: 0.798976 s
+Program:
+    Execution: 18.854950 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 5.295178 s
+    Avg: 0.529517 s
+Thread2:
+    Sum: 5.309123 s
+    Avg: 0.530912 s
+CSP:
+    Sum: 7.795525 s
+    Avg: 0.779552 s
+Program:
+    Execution: 18.399898 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 5.764757 s
+    Avg: 0.576475 s
+Thread2:
+    Sum: 5.748357 s
+    Avg: 0.574835 s
+CSP:
+    Sum: 8.351967 s
+    Avg: 0.835196 s
+Program:
+    Execution: 19.865188 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 5.451242 s
+    Avg: 0.545124 s
+Thread2:
+    Sum: 5.746160 s
+    Avg: 0.574616 s
+CSP:
+    Sum: 8.644309 s
+    Avg: 0.864430 s
+Program:
+    Execution: 19.841774 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 5.787437 s
+    Avg: 0.578743 s
+Thread2:
+    Sum: 5.640313 s
+    Avg: 0.564031 s
+CSP:
+    Sum: 8.172168 s
+    Avg: 0.817216 s
+Program:
+    Execution: 19.600015 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 4.521873 s
+    Avg: 0.452187 s
+Thread2:
+    Sum: 4.497682 s
+    Avg: 0.449768 s
+CSP:
+    Sum: 6.846607 s
+    Avg: 0.684660 s
+Program:
+    Execution: 15.866236 s
+RIOT native interrupts/signals initialized.
+RIOT native board initialized.
+RIOT native hardware initialization complete.
+
+main(): This is RIOT! (Version: 2024.10-devel-182-g0cea3)
+Computation finished. Results:
+Thread1:
+    Sum: 5.012218 s
+    Avg: 0.501221 s
+Thread2:
+    Sum: 4.859627 s
+    Avg: 0.485962 s
+CSP:
+    Sum: 7.729655 s
+    Avg: 0.772965 s
+Program:
+    Execution: 17.601561 s

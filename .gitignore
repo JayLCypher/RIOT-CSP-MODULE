@@ -1,0 +1,35 @@
+.cache/
+py/
+bin/
+.clangd
+compile_commands.json
+*.o
+*.gdb_history
+
+# RIOT/
+
+# latex
+*/*.log
+*/*.aux
+*/*.bit
+*/*.blg
+*/*.bbl
+*/*.bcf
+*/*.fdb_latexmk
+*/*.lof
+*/*.log
+*/*.lot
+*/*.glo
+*/*.glx
+*/*.gxg
+*/*.gxs
+*/*.idx
+*/*.ilg
+*/*.ind
+*/*.out
+*/*.url
+*/*.svn
+*/*.toc
+*/*.fls
+*/*.run.xml
+*/*.synctex.gz
