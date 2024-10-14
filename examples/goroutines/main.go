@@ -1,4 +1,4 @@
-// Example go code from https://gobyexample.com/goroutines
+// Example go code from https://gobyexample.com/goroutines by Mark McGranaghan. License: https://github.com/mmcgrana/gobyexample#license
 package main
 
 import (
