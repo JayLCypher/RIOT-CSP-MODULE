@@ -234,8 +234,8 @@ The example Go code is from [gobyexample](https://gobyexample.com/goroutines).
 
 <table>
 <tr>
-<th> CSP </th>
-<th> GO </th>
+<th> CSP Module </th>
+<th> GO lang (gobyexample) </th>
 </tr>
 <tr>
 <td>
