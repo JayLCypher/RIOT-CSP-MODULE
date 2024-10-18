@@ -264,7 +264,7 @@ enum CSP_FLAGS
 #endif
 
 // Copies the arguments to a local variable using memcpy, compound literal and type T.
-#if defined(__GNUC__) || defined(__clagn__) || __has_builtin(__builtin_memcpy)
+#if defined(__GNUC__) || defined(__clang__) || __has_builtin(__builtin_memcpy)
 extern void *memcpy(void *, const void *, unsigned);
 #define CSP_GET_ARGS_T(args, T) memcpy(&(T){0}, (args), sizeof(T))
 #else
